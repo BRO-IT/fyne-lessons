@@ -10,16 +10,6 @@ import (
 	"fyne.io/fyne/v2/widget"
 )
 
-/*
-1) Знакомство с ProgressBar
-2) Изменение значения(состояния) ProgressBar
-3) Получение значения ProgressBar
-4) Практическое применение ProgressBar
-5) Виджет ProgressBarInfinite
-6) Управление анимацией ProgressBarInfinite
-7) Практическое применение ProgressBarInfinite
-*/
-
 func main() {
 	a := app.New()
 	w := a.NewWindow("Подпишись на канал :)")
