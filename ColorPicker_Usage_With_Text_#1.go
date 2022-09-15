@@ -10,7 +10,7 @@ import (
 	"fyne.io/fyne/v2/dialog"
 	"fyne.io/fyne/v2/widget"
 )
-
+// BRO-IT
 func main() {
 	a := app.NewWithID("BRO-IT APP")
 	w := a.NewWindow("Подпишись на канал :)")
